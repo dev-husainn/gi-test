@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "your message"
+git log --oneline 
+git branch -M main 
+git remote add origin https://github.url/husain@gmail.com/add.your.URL/
+git push -u origin main
